@@ -1,0 +1,17 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+    background-color: rgba(128, 187, 123, 0.274);
+}
+h1 {
+    color: green;
+}
+
+input,
+textarea {
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 10px;
+}
